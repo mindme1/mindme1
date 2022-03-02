@@ -1,0 +1,11 @@
+#include<stdio.h>
+main()
+{
+ char a[50];
+ scanf("%c",a);
+ switch(a)
+{
+ case alive: printf("pingo pongo\nyour bot is working as fine as funk");
+              break;
+}
+}
